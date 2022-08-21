@@ -1,0 +1,97 @@
+body{
+  font-family: Montserrat;
+}
+
+#title{
+  background-color: #ff4c68;
+}
+.navbar-brand{
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+.img{
+  transform: rotate(20deg) scale(100%);
+  width: 75%;
+  margin-top:20px;
+
+}
+.h{
+  color: white;
+  font-family: Montserrat;
+  font-weight: 900;
+  font-size: 3.5rem;
+  letter-spacing: 2px;
+  line-height: 1.5;
+
+}
+.container-fluid{
+  padding: 4% 12%;
+}
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  font-weight: normal;
+}
+.download-button{
+  margin: 0 8px;
+  margin: 10px 10px;
+
+}
+#features{
+  margin: 0 auto;
+  width: 95%;
+  padding: 10% 6%;
+}
+.col-md-4{
+  text-align: center;
+  padding-left:30px;
+  padding-right: 30px;
+}
+.fa-solid {
+  transform: scale(400%);
+  color:#ff8460;
+}
+.fa-solid:hover{
+  color: #ff4c68;
+}
+.h3{
+  font-weight:bold;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ff8460;
+  color: white;
+}
+.ha2{
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-img{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+}
+#press{
+  background-color: #ff8460;
+  text-align: center;
+  padding-bottom:  4%;
+}
+.cTitle{
+font-family: "Montserrat";
+font-weight: 700;
+}
+.cText1{
+  font-family: Montserrat;
+  font-weight: bold;
+}
+.carousel-item{
+    padding: 7% 13%;
+}
+.press-logo{
+  width: 12%;
+  margin: 10px 40px 30px;
+}
